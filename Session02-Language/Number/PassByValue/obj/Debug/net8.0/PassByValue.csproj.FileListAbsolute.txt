@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByValue\bin\Debug\net8.0\PassByValue.exe
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByValue\bin\Debug\net8.0\PassByValue.deps.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByValue\bin\Debug\net8.0\PassByValue.runtimeconfig.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByValue\bin\Debug\net8.0\PassByValue.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByValue\bin\Debug\net8.0\PassByValue.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByValue\obj\Debug\net8.0\PassByValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByValue\obj\Debug\net8.0\PassByValue.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByValue\obj\Debug\net8.0\PassByValue.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByValue\obj\Debug\net8.0\PassByValue.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByValue\obj\Debug\net8.0\PassByValue.sourcelink.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByValue\obj\Debug\net8.0\PassByValue.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByValue\obj\Debug\net8.0\refint\PassByValue.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByValue\obj\Debug\net8.0\PassByValue.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByValue\obj\Debug\net8.0\PassByValue.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByValue\obj\Debug\net8.0\ref\PassByValue.dll

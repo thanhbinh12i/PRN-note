@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTester\bin\Debug\net8.0\StudentTester.exe
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTester\bin\Debug\net8.0\StudentTester.deps.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTester\bin\Debug\net8.0\StudentTester.runtimeconfig.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTester\bin\Debug\net8.0\StudentTester.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTester\bin\Debug\net8.0\StudentTester.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTester\obj\Debug\net8.0\StudentTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTester\obj\Debug\net8.0\StudentTester.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTester\obj\Debug\net8.0\StudentTester.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTester\obj\Debug\net8.0\StudentTester.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTester\obj\Debug\net8.0\StudentTester.sourcelink.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTester\obj\Debug\net8.0\StudentTester.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTester\obj\Debug\net8.0\refint\StudentTester.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTester\obj\Debug\net8.0\StudentTester.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTester\obj\Debug\net8.0\StudentTester.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTester\obj\Debug\net8.0\ref\StudentTester.dll

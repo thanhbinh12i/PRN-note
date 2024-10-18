@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.exe
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.deps.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.runtimeconfig.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.sourcelink.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\refint\ObjectArray.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\ref\ObjectArray.dll

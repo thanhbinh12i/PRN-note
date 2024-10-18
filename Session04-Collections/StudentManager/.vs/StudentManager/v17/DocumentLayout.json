@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session04-Collections\\StudentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31247FA5-F9B1-4019-8B13-AAF468A05D66}|StudentTesterV3\\StudentTesterV3.csproj|c:\\users\\pc\\onedrive\\documents\\semester5__se\\prn_demo\\session04-collections\\studentmanager\\studenttesterv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31247FA5-F9B1-4019-8B13-AAF468A05D66}|StudentTesterV3\\StudentTesterV3.csproj|solutionrelative:studenttesterv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31247FA5-F9B1-4019-8B13-AAF468A05D66}|StudentTesterV3\\StudentTesterV3.csproj|c:\\users\\pc\\onedrive\\documents\\semester5__se\\prn_demo\\session04-collections\\studentmanager\\studenttesterv3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31247FA5-F9B1-4019-8B13-AAF468A05D66}|StudentTesterV3\\StudentTesterV3.csproj|solutionrelative:studenttesterv3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31247FA5-F9B1-4019-8B13-AAF468A05D66}|StudentTesterV3\\StudentTesterV3.csproj|c:\\users\\pc\\onedrive\\documents\\semester5__se\\prn_demo\\session04-collections\\studentmanager\\studenttesterv3\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31247FA5-F9B1-4019-8B13-AAF468A05D66}|StudentTesterV3\\StudentTesterV3.csproj|solutionrelative:studenttesterv3\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31247FA5-F9B1-4019-8B13-AAF468A05D66}|StudentTesterV3\\StudentTesterV3.csproj|c:\\users\\pc\\onedrive\\documents\\semester5__se\\prn_demo\\session04-collections\\studentmanager\\studenttesterv3\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31247FA5-F9B1-4019-8B13-AAF468A05D66}|StudentTesterV3\\StudentTesterV3.csproj|solutionrelative:studenttesterv3\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session04-Collections\\StudentManager\\StudentTesterV3\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTesterV3\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session04-Collections\\StudentManager\\StudentTesterV3\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTesterV3\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:01:31.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session04-Collections\\StudentManager\\StudentTesterV3\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTesterV3\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session04-Collections\\StudentManager\\StudentTesterV3\\Program.cs",
+              "RelativeToolTip": "StudentTesterV3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:59:28.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cabinet.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session04-Collections\\StudentManager\\StudentTesterV3\\Services\\Cabinet.cs",
+              "RelativeDocumentMoniker": "StudentTesterV3\\Services\\Cabinet.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session04-Collections\\StudentManager\\StudentTesterV3\\Services\\Cabinet.cs",
+              "RelativeToolTip": "StudentTesterV3\\Services\\Cabinet.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:37:26.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session04-Collections\\StudentManager\\StudentTesterV3\\Entities\\Lecturer.cs",
+              "RelativeDocumentMoniker": "StudentTesterV3\\Entities\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session04-Collections\\StudentManager\\StudentTesterV3\\Entities\\Lecturer.cs",
+              "RelativeToolTip": "StudentTesterV3\\Entities\\Lecturer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:37:22.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

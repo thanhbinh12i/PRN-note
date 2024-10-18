@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\BasicCollections\PrimitiveList\bin\Debug\net8.0\PrimitiveList.exe
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\BasicCollections\PrimitiveList\bin\Debug\net8.0\PrimitiveList.deps.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\BasicCollections\PrimitiveList\bin\Debug\net8.0\PrimitiveList.runtimeconfig.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\BasicCollections\PrimitiveList\bin\Debug\net8.0\PrimitiveList.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\BasicCollections\PrimitiveList\bin\Debug\net8.0\PrimitiveList.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\PrimitiveList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\PrimitiveList.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\PrimitiveList.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\PrimitiveList.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\PrimitiveList.sourcelink.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\PrimitiveList.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\refint\PrimitiveList.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\PrimitiveList.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\PrimitiveList.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\ref\PrimitiveList.dll

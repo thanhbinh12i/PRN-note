@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session02-Language\\Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F64A8100-175B-48AD-BFAC-BB1100ACE7AC}|NumberTester\\NumberTester.csproj|c:\\users\\pc\\onedrive\\documents\\semester5__se\\prn_demo\\session02-language\\number\\numbertester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64A8100-175B-48AD-BFAC-BB1100ACE7AC}|NumberTester\\NumberTester.csproj|solutionrelative:numbertester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EA0C6E-072E-4756-AD16-1FCE05E0813D}|PassByReferenceRefKeyword\\PassByReferenceRefKeyword.csproj|c:\\users\\pc\\onedrive\\documents\\semester5__se\\prn_demo\\session02-language\\number\\passbyreferencerefkeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EA0C6E-072E-4756-AD16-1FCE05E0813D}|PassByReferenceRefKeyword\\PassByReferenceRefKeyword.csproj|solutionrelative:passbyreferencerefkeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2321C9-975C-48C0-907E-3D1C64B557BC}|PassByReferenceOutKeyword\\PassByReferenceOutKeyword.csproj|c:\\users\\pc\\onedrive\\documents\\semester5__se\\prn_demo\\session02-language\\number\\passbyreferenceoutkeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2321C9-975C-48C0-907E-3D1C64B557BC}|PassByReferenceOutKeyword\\PassByReferenceOutKeyword.csproj|solutionrelative:passbyreferenceoutkeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F7E76B-85BB-4187-AE96-B0A8F4268D87}|PassByValue\\PassByValue.csproj|c:\\users\\pc\\onedrive\\documents\\semester5__se\\prn_demo\\session02-language\\number\\passbyvalue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F7E76B-85BB-4187-AE96-B0A8F4268D87}|PassByValue\\PassByValue.csproj|solutionrelative:passbyvalue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session02-Language\\Number\\PassByReferenceRefKeyword\\Program.cs",
+              "RelativeDocumentMoniker": "PassByReferenceRefKeyword\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session02-Language\\Number\\PassByReferenceRefKeyword\\Program.cs",
+              "RelativeToolTip": "PassByReferenceRefKeyword\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABIAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:03:18.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session02-Language\\Number\\PassByReferenceOutKeyword\\Program.cs",
+              "RelativeDocumentMoniker": "PassByReferenceOutKeyword\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session02-Language\\Number\\PassByReferenceOutKeyword\\Program.cs",
+              "RelativeToolTip": "PassByReferenceOutKeyword\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:15:16.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session02-Language\\Number\\PassByValue\\Program.cs",
+              "RelativeDocumentMoniker": "PassByValue\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session02-Language\\Number\\PassByValue\\Program.cs",
+              "RelativeToolTip": "PassByValue\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBsAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:29:55.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session02-Language\\Number\\NumberTester\\Program.cs",
+              "RelativeDocumentMoniker": "NumberTester\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session02-Language\\Number\\NumberTester\\Program.cs",
+              "RelativeToolTip": "NumberTester\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:26:17.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

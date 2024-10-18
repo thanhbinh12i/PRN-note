@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session02-Language\\Health\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5246185-63AD-455B-9BB9-DBDAC96DAFA8}|BmiTester\\BmiTester.csproj|c:\\users\\pc\\onedrive\\documents\\semester5__se\\prn_demo\\session02-language\\health\\bmitester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5246185-63AD-455B-9BB9-DBDAC96DAFA8}|BmiTester\\BmiTester.csproj|solutionrelative:bmitester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7882FF4-3F60-4B19-ABEB-BE2B1CEA32B5}|Bmi\\Bmi.csproj|c:\\users\\pc\\onedrive\\documents\\semester5__se\\prn_demo\\session02-language\\health\\bmi\\bmicalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7882FF4-3F60-4B19-ABEB-BE2B1CEA32B5}|Bmi\\Bmi.csproj|solutionrelative:bmi\\bmicalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5246185-63AD-455B-9BB9-DBDAC96DAFA8}|BmiTester\\BmiTester.csproj|c:\\users\\pc\\onedrive\\documents\\semester5__se\\prn_demo\\session02-language\\health\\bmitester\\bmitester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5246185-63AD-455B-9BB9-DBDAC96DAFA8}|BmiTester\\BmiTester.csproj|solutionrelative:bmitester\\bmitester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7882FF4-3F60-4B19-ABEB-BE2B1CEA32B5}|Bmi\\Bmi.csproj|c:\\users\\pc\\onedrive\\documents\\semester5__se\\prn_demo\\session02-language\\health\\bmi\\bmi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D7882FF4-3F60-4B19-ABEB-BE2B1CEA32B5}|Bmi\\Bmi.csproj|solutionrelative:bmi\\bmi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bmi",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session02-Language\\Health\\Bmi\\Bmi.csproj",
+              "RelativeDocumentMoniker": "Bmi\\Bmi.csproj",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session02-Language\\Health\\Bmi\\Bmi.csproj",
+              "RelativeToolTip": "Bmi\\Bmi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T10:02:28.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BmiTester.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session02-Language\\Health\\BmiTester\\BmiTester.csproj",
+              "RelativeDocumentMoniker": "BmiTester\\BmiTester.csproj",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session02-Language\\Health\\BmiTester\\BmiTester.csproj",
+              "RelativeToolTip": "BmiTester\\BmiTester.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T09:53:38.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BmiCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session02-Language\\Health\\Bmi\\BmiCalculator.cs",
+              "RelativeDocumentMoniker": "Bmi\\BmiCalculator.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session02-Language\\Health\\Bmi\\BmiCalculator.cs",
+              "RelativeToolTip": "Bmi\\BmiCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:32:00.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session02-Language\\Health\\BmiTester\\Program.cs",
+              "RelativeDocumentMoniker": "BmiTester\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\Semester5__SE\\PRN_Demo\\Session02-Language\\Health\\BmiTester\\Program.cs",
+              "RelativeToolTip": "BmiTester\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAACdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:45:48.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

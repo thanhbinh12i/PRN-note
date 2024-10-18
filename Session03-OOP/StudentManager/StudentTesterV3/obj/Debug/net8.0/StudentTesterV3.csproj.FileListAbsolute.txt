@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTesterV3\bin\Debug\net8.0\StudentTesterV3.exe
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTesterV3\bin\Debug\net8.0\StudentTesterV3.deps.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTesterV3\bin\Debug\net8.0\StudentTesterV3.runtimeconfig.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTesterV3\bin\Debug\net8.0\StudentTesterV3.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTesterV3\bin\Debug\net8.0\StudentTesterV3.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\StudentTesterV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\StudentTesterV3.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\StudentTesterV3.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\StudentTesterV3.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\StudentTesterV3.sourcelink.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\StudentTesterV3.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\refint\StudentTesterV3.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\StudentTesterV3.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\StudentTesterV3.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\ref\StudentTesterV3.dll

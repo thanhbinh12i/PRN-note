@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Health\Bmi\bin\Debug\net8.0\Bmi.deps.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Health\Bmi\bin\Debug\net8.0\Bmi.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Health\Bmi\bin\Debug\net8.0\Bmi.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.sourcelink.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Health\Bmi\obj\Debug\net8.0\refint\Bmi.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Health\Bmi\obj\Debug\net8.0\ref\Bmi.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Health\Bmi\bin\Debug\net8.0\Bmi.xml
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.xml

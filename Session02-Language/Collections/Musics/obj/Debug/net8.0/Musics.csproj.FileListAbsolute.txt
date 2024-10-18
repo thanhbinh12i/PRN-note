@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Musics\bin\Debug\net8.0\Musics.exe
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Musics\bin\Debug\net8.0\Musics.deps.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Musics\bin\Debug\net8.0\Musics.runtimeconfig.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Musics\bin\Debug\net8.0\Musics.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Musics\bin\Debug\net8.0\Musics.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.sourcelink.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Musics\obj\Debug\net8.0\refint\Musics.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Musics\obj\Debug\net8.0\ref\Musics.dll

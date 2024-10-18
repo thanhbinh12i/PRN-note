@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\PrimitiveArray\bin\Debug\net8.0\PrimitiveArray.exe
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\PrimitiveArray\bin\Debug\net8.0\PrimitiveArray.deps.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\PrimitiveArray\bin\Debug\net8.0\PrimitiveArray.runtimeconfig.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\PrimitiveArray\bin\Debug\net8.0\PrimitiveArray.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\PrimitiveArray\bin\Debug\net8.0\PrimitiveArray.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\PrimitiveArray\obj\Debug\net8.0\PrimitiveArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\PrimitiveArray\obj\Debug\net8.0\PrimitiveArray.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\PrimitiveArray\obj\Debug\net8.0\PrimitiveArray.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\PrimitiveArray\obj\Debug\net8.0\PrimitiveArray.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\PrimitiveArray\obj\Debug\net8.0\PrimitiveArray.sourcelink.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\PrimitiveArray\obj\Debug\net8.0\PrimitiveArray.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\PrimitiveArray\obj\Debug\net8.0\refint\PrimitiveArray.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\PrimitiveArray\obj\Debug\net8.0\PrimitiveArray.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\PrimitiveArray\obj\Debug\net8.0\PrimitiveArray.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session04-Collections\Array\PrimitiveArray\obj\Debug\net8.0\ref\PrimitiveArray.dll

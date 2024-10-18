@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Poems\bin\Debug\net8.0\Poems.exe
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Poems\bin\Debug\net8.0\Poems.deps.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Poems\bin\Debug\net8.0\Poems.runtimeconfig.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Poems\bin\Debug\net8.0\Poems.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Poems\bin\Debug\net8.0\Poems.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.sourcelink.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Poems\obj\Debug\net8.0\refint\Poems.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Collections\Poems\obj\Debug\net8.0\ref\Poems.dll

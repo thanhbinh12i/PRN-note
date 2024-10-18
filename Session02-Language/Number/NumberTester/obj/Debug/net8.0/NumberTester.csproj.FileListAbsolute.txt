@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\NumberTester\bin\Debug\net8.0\NumberTester.exe
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\NumberTester\bin\Debug\net8.0\NumberTester.deps.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\NumberTester\bin\Debug\net8.0\NumberTester.runtimeconfig.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\NumberTester\bin\Debug\net8.0\NumberTester.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\NumberTester\bin\Debug\net8.0\NumberTester.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\NumberTester\obj\Debug\net8.0\NumberTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\NumberTester\obj\Debug\net8.0\NumberTester.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\NumberTester\obj\Debug\net8.0\NumberTester.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\NumberTester\obj\Debug\net8.0\NumberTester.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\NumberTester\obj\Debug\net8.0\NumberTester.sourcelink.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\NumberTester\obj\Debug\net8.0\NumberTester.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\NumberTester\obj\Debug\net8.0\refint\NumberTester.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\NumberTester\obj\Debug\net8.0\NumberTester.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\NumberTester\obj\Debug\net8.0\NumberTester.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\NumberTester\obj\Debug\net8.0\ref\NumberTester.dll

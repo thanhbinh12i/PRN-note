@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.exe
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.deps.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.runtimeconfig.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.sourcelink.json
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByReferenceOutKeyword\obj\Debug\net8.0\refint\PassByReferenceOutKeyword.dll
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.pdb
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documents\Semester5__SE\PRN_Demo\Session02-Language\Number\PassByReferenceOutKeyword\obj\Debug\net8.0\ref\PassByReferenceOutKeyword.dll
